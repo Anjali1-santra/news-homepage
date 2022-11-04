@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/news-homepage-2WxZvjaRee)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/news-homepage-2WxZvjaRee)
 - Live Site URL: [https://news-homepage-anjali1.netlify.app/)
 
 ### Built with
