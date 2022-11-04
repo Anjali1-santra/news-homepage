@@ -24,9 +24,9 @@ Users should be able to:
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
-![Desktop Screenshot](Screenshots\desktop-view-screenshot.png)
-![Mobile-Screenshot](Screenshots\mobile-view-screenshot.png)
-![Mobile-menu-Screenshot](Screenshots\mobile-menu-screenshot.png)
+![Desktop Screenshot](https://github.com/Anjali1-santra/news-homepage/blob/main/Screenshots/desktop-view-screenshot.png)
+![Mobile-Screenshot](https://github.com/Anjali1-santra/news-homepage/blob/main/Screenshots/mobile-view-screenshot.png)
+![Mobile-menu-Screenshot](https://github.com/Anjali1-santra/news-homepage/blob/main/Screenshots/mobile-menu-screenshot.png)
 
 ### Links
 
