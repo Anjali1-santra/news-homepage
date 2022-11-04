@@ -24,10 +24,9 @@ Users should be able to:
 - **Bonus**: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
-
-Screenshots\desktop-view-screenshot.png
-Screenshots\mobile-view-screenshot.png
-Screenshots\mobile-view-screenshot.png
+![Desktop Screenshot](Screenshots\desktop-view-screenshot.png)
+![Mobile-Screenshot](Screenshots\mobile-view-screenshot.png)
+![Mobile-menu-Screenshot](Screenshots\mobile-menu-screenshot.png)
 
 ### Links
 
